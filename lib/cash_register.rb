@@ -38,3 +38,5 @@
 #     @total -= @price
 #   end
 # end
+
+
